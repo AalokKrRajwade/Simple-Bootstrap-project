@@ -14,3 +14,7 @@
 2. Use the **carousel** at the top to view different slides.
 3. Scroll down to explore **music cards**.
 4. Click the **"watch now"** button on any card to open the song on YouTube in a new tab.
+
+## Preview: <br/>
+<br/>
+<img src="images/Preview.png"> <br/>
